@@ -1,0 +1,17 @@
+{
+  "expo": {
+   "name": "Compras",
+   "description": "Um aplicativo para criar lista de compras",
+   "icon": "./assets/icon.png",
+   "version": "1.0.0",
+   "slug": "mobile",
+   "sdkVersion": "35.0.0",
+   
+   "ios": {
+     "bundleIdentifier": "me.ianguuima.compras"
+   },
+   "android": {
+     "package": "me.ianguuima.compras"
+   }
+  }
+}
