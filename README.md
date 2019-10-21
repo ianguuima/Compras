@@ -5,8 +5,8 @@ Um aplicativo react-native para organizar sua lista de compras.
 ## Imagens
 
 <div style="display: flex; flex-direction: row">
-<img style="margin-left: 10px" src="https://i.imgur.com/ZQQlCJ9.jpg" width="15%" height="15%">
-<img style="margin-left: 10px" src="https://i.imgur.com/1Gpc6EU.jpg" width="15%" height="15%">
+<img style="margin-left: 10px" src="https://i.imgur.com/ZQQlCJ9.jpg" width="25%" height="25%">
+<img style="margin-left: 10px" src="https://i.imgur.com/1Gpc6EU.jpg" width="25%" height="25%">
 </div>
 
 É um projeto simples. Essas são todas as imagens.
